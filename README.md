@@ -20,9 +20,9 @@ Press_mm_hg: The pressure in mm of mercury
 
 RH_out: The outdoor humidity level in %
 
-Windspeed: The wind speed in m/s
+Windspeed: The wind speed in (m/s)
 
-Visibility: The visibility in km
+Visibility: The visibility in (km)
 
 Tdewpoint: The dew point temperature in Celsius
 
