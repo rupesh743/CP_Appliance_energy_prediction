@@ -24,7 +24,7 @@ Windspeed: The wind speed in (m/s)
 
 Visibility: The visibility in (km)
 
-Tdewpoint: The dew point temperature in Celsius
+Tdewpoint: The dew point temperature in Celsius.
 
 The dataset was collected over a period of several months from a single household. The data was sampled every 10 minutes, resulting in a total of 19,735 observations.
 
